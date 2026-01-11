@@ -104,13 +104,12 @@ img {
   position: relative;
   width: 100%;
   height: 100vh;
-  /* full 1 layar */
   overflow: hidden;
 }
 
 .about-group-img {
   width: 100%;
-  height: 100%;
+  height: 632px;
   object-fit: cover;
   filter: brightness(60%);
 }
@@ -294,4 +293,5 @@ img {
   padding: 20px;
   font-size: 13px;
   letter-spacing: 1px;
+
 }
